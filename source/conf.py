@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'project'
+project = u'SphinxTutorial'
 copyright = u'2016, kinslayer'
 author = u'kinslayer'
 
