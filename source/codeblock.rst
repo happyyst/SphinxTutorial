@@ -1,11 +1,11 @@
 .. _label_code_block:
 
 代码高亮
-============
+====
 
 
 python 代码
-------
+---------
 .. code-block:: python
 
     import random
@@ -27,7 +27,7 @@ python 代码
 
 
 代码行高亮
-------
+-----
 .. code-block:: python
    :emphasize-lines: 3,5
 
@@ -38,7 +38,7 @@ python 代码
        print '...but this one is.'
 
 java代码
--------
+------
 .. code-block:: java
 
     public static <E extends Comparable<E>> int binarySearch(E[] array, int from, int to, E key) throws Exception {
@@ -60,7 +60,7 @@ java代码
     }
 
 html代码
--------
+------
 
 .. code-block:: html
 
@@ -87,3 +87,4 @@ html代码
     </script>
     </body>
 
+返回 :doc:`basic`

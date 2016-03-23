@@ -11,9 +11,8 @@
     install
     basic
     doctor
-    codeblock
+    integration
 
-* :ref:`genindex`
-* :ref:`modindex`
+* ref:`genindex`
 * :ref:`search`
 
