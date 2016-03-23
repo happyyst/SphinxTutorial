@@ -7,7 +7,6 @@
 python 代码
 ------
 .. code-block:: python
-    :linenos:
 
     import random
     def quick_sort(array, left, right):
@@ -31,7 +30,6 @@ python 代码
 ------
 .. code-block:: python
    :emphasize-lines: 3,5
-   :linenos:
 
    def some_function():
        interesting = False
