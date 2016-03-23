@@ -26,20 +26,22 @@ python 代码
             quick_sort(array, l + 1, right)
 
 
-代码行高亮
------
+显示行号和代码行高亮
+----------
 .. code-block:: python
-   :emphasize-lines: 3,5
+    :linenos:
+    :emphasize-lines: 3,5
 
-   def some_function():
-       interesting = False
-       print 'This line is highlighted.'
-       print 'This one is not...'
-       print '...but this one is.'
+    def some_function():
+        interesting = False
+        print 'This line is highlighted.'
+        print 'This one is not...'
+        print '...but this one is.'
 
 java代码
 ------
 .. code-block:: java
+    :linenos:
 
     public static <E extends Comparable<E>> int binarySearch(E[] array, int from, int to, E key) throws Exception {
         if (from < 0 || to < 0) {
@@ -63,6 +65,7 @@ html代码
 ------
 
 .. code-block:: html
+    :linenos:
 
     <body class="">
     <div id="blk_router">

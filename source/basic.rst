@@ -173,6 +173,18 @@ birthday            date      Y                             生日
 
     .. image:: _static/flower.jpg
 
+* 自定义图片大小和对齐方式
+.. image:: _static/flower.jpg
+    :height: 200
+    :width: 100
+    :align: center
+::
+
+    .. image:: _static/flower.jpg
+        :height: 200
+        :width: 100
+        :align: center
+
 3.7 超链接
 ----------------
 
