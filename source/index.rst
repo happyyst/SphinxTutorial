@@ -13,6 +13,5 @@
     doctor
     integration
 
-* ref:`genindex`
 * :ref:`search`
 
