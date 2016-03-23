@@ -10,7 +10,6 @@
     intro
     install
     basic
-    doctor
     integration
 
 * :ref:`search`
